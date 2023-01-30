@@ -23,8 +23,8 @@ const About = (props) =>{
           <p className="mb-8 leading-relaxed">
             Hey! I'm a recent graduate from the University of Rochester (Dec 2022) with a B.S. in Computer Science and a B.A. in Economics. 
             Although young (I just turned 23... yikes), I've been fortunate to have had several professional experiences 
-            within the software industry inside prominent orginizations. Although my skills lie towards the back-end side of things, I've been recently learning more front-end work
-            in my free time to become a more complete developer! This website, for example, was created with React and using Tailwind CSS. Please check out the snapshots of my coding experiences
+            within the software industry inside prominent organizations. Although my skills lie towards the back-end side of things, I've been learning front-end work
+            in my free time to become a morecomplete developer! This website, for example, was created with React and using Tailwind CSS. Please check out the snapshots of my coding experiences
             below!
           </p>
           <div className="flex justify-center">

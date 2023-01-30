@@ -12,7 +12,7 @@ const Projects = (props) => {
             Personal Projects
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here are some things that I've built in my free time or for class. (besides this website) Please hover each frame for some more details about them. Clicking each individual box will bring you to their respective Github link or URL!
+            Here are some things that I've built in my free time or for class. (not including this website, but it's code is on github!) Please hover each frame for some more details about them. Clicking each individual box will bring you to their respective Github link or URL!
           </p>
           <a 
           href = "https://github.com/lilsteviebird" 

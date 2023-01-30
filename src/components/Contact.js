@@ -28,9 +28,6 @@ const Contact = (props) => {
         alert("Message sent!");
       })
       .catch((error) => alert(error));
-      setName("");
-      setEmail("");
-      setMessage("");
   }
 
   return (
@@ -40,6 +37,7 @@ const Contact = (props) => {
             netlify
             name="contact"
             onSubmit={handleSubmit}>
+            <input type="hidden" name="form-name" value="contact" />
             <h2 className="text-white sm:text-4xl text-3xl mb-1 font-medium title-font">
               Contact Me!
             </h2>
